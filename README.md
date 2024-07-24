@@ -32,6 +32,9 @@ I’d be happy to discuss the terms!
 ## My latest projects
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
+  <a href="https://667c54f205f23692c4b7a4aa--sensational-florentine-793d9d.netlify.app/catalog" target="_blank">
+    <img src="./assets/puzzle.png" width="200" height="300" style="object-fit: cover;">
+  </a>
   <a href="https://zemed.ru/" target="_blank">
     <img src="./assets/zemed.png" width="200" height="300" style="object-fit: cover;">
   </a>
@@ -46,9 +49,6 @@ I’d be happy to discuss the terms!
   </a>
   <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/coffee-house/" target="_blank">
     <img src="./assets/coffee.png" width="200" height="300" style="object-fit: cover;">
-  </a>
-  <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/rss-puzzle/" target="_blank">
-    <img src="./assets/puzzle.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/rss-puzzle/" target="_blank">
     <img src="./assets/hangman.png" width="200" height="300" style="object-fit: cover;">
