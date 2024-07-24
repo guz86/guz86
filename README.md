@@ -33,28 +33,28 @@ I’d be happy to discuss the terms!
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
   <a href="https://zemed.ru/" target="_blank">
-    <img src="./assets/zemed.png" width="200" height="200" style="object-fit: cover;">
+    <img src="./assets/zemed.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://mdalco.ru/" target="_blank">
-    <img src="./assets/mdalco.png" width="200" height="200" style="object-fit: cover;">
+    <img src="./assets/mdalco.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://zhilischnoe-pravo.ru/" target="_blank">
-    <img src="./assets/zhilischnoe-pravo.png" width="200" height="200" style="object-fit: cover;">
+    <img src="./assets/zhilischnoe-pravo.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://gidpain.ru/" target="_blank">
-    <img src="./assets/gidpain.png" width="200" height="200" style="object-fit: cover;">
+    <img src="./assets/gidpain.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/coffee-house/" target="_blank">
-    <img src="./assets/coffee.png" width="200" height="200" style="object-fit: cover;">
+    <img src="./assets/coffee.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/rss-puzzle/" target="_blank">
-    <img src="./assets/puzzle.png" width="200" height="200" style="object-fit: cover;">
+    <img src="./assets/puzzle.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/rss-puzzle/" target="_blank">
-    <img src="./assets/hangman.png" width="200" height="200" style="object-fit: cover;">
+    <img src="./assets/hangman.png" width="200" height="300" style="object-fit: cover;">
   </a>
     <a href="https://galaset.ru/" target="_blank">
-    <img src="./assets/galaset.png" width="200" height="200" style="object-fit: cover;">
+    <img src="./assets/galaset.png" width="200" height="300" style="object-fit: cover;">
   </a>
 </div>
   
