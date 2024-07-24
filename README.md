@@ -74,10 +74,10 @@ I’d be happy to discuss the terms!
 <div style="display: flex;">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guz86&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guz86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=guz86)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=guz86&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guz86&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
