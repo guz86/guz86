@@ -4,7 +4,7 @@ Hi. I’m looking for a job as a frontend developer, available 40 hours a week. 
 I’d be happy to discuss the terms!
 
 - 🔭 I’m currently working on a test task on React for one large company.
-- 🌱 I’m currently learning React for perfom my skills in RS School.
+- 🌱 I’m currently learning React to improve my skills at the RS school.
 
 ## Languages and Tools
 
