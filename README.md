@@ -73,7 +73,7 @@ I’d be happy to discuss the terms!
 
 <div style="display: flex;">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guz86&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guz86&show_icons=true&theme=dark)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=guz86&theme=dark)](https://git.io/streak-stats)
 
