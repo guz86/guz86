@@ -50,8 +50,8 @@ I’d be happy to discuss the terms!
   <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/coffee-house/" target="_blank">
     <img src="./assets/coffee.png" width="200" height="300" style="object-fit: cover;">
   </a>
-  <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/rss-puzzle/" target="_blank">
-    <img src="./assets/hangman.png" width="200" height="300" style="object-fit: cover;">
+  <a href="https://rolling-scopes-school.github.io/guz86-JSFEPRESCHOOL2024Q2/shelter/" target="_blank">
+    <img src="./assets/shelter.png" width="200" height="300" style="object-fit: cover;">
   </a>
     <a href="https://galaset.ru/" target="_blank">
     <img src="./assets/galaset.png" width="200" height="300" style="object-fit: cover;">
