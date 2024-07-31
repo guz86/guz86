@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi. I’m looking for a job as a frontend developer, available 40 hours a week. I am a programmer since 2009, participating in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a>, leading the channel on <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development</a>, looking for a company where my skills will be useful.
+I’m looking for a job as a frontend developer, available 40 hours a week. I am a programmer since 2009, participating in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a>, leading the channel on <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development</a>, looking for a company where my skills will be useful.
 I’d be happy to discuss the terms!
 
 - 🔭 I’m currently working on a test task on React for one large company.
@@ -72,11 +72,16 @@ I’d be happy to discuss the terms!
 ### My Stats
 
 <div style="display: flex;">
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guz86&show_icons=true&theme=dark)
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=guz86&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=guz86)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guz86&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guz86&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
+
 <!--
 ### My Courses
 <div style="display: flex;">
