@@ -32,7 +32,7 @@ I’d be happy to discuss the terms!
 ## My latest projects
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
-  <a href="https://667c54f205f23692c4b7a4aa--sensational-florentine-793d9d.netlify.app/catalog" target="_blank">
+  <a href="https://github.com/RS-Tech-Artisans/eCommerce-React" target="_blank">
     <img src="./assets/puzzle.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://zemed.ru/" target="_blank">
