@@ -3,6 +3,17 @@
 I’m looking for a job as a frontend developer, available 40 hours a week. I am a programmer since 2009, participating in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a>, leading the channel on <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development</a>, looking for a company where my skills will be useful.
 I’d be happy to discuss the terms!
 
+ <p align="center" dir="auto">
+   <a href="https://www.linkedin.com/in/pgordienko/" rel="nofollow">
+       <img src="https://camo.githubusercontent.com/d90c501c7f68295cfcab6a68b761ba5b1101292b8ac9895eaeca253df2e53eb3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+   </a>
+   <a href="https://t.me/joinchat/@guz86" rel="nofollow">
+       <img src="https://camo.githubusercontent.com/8f41682a178e57a174d0c6042e9cdb842c6329b24c34b2bf4206c25e933073a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" style="max-width: 100%;">
+   </a>
+</p><p align="center" dir="auto">
+   📫 How to reach me: <a href="mailto:guzmo@yandex.ru">guzmo@yandex.ru</a>
+</p>
+
 - 🔭 I’m currently working on a test task on React for one large company.
 - 🌱 I’m currently learning React to improve my skills at the RS school.
 
