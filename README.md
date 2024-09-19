@@ -66,10 +66,7 @@ I’d be happy to discuss the terms!
   <a href="https://rolling-scopes-school.github.io/guz86-JSFEPRESCHOOL2024Q2/shelter/" target="_blank">
     <img src="./assets/shelter.png" width="200" height="300" style="object-fit: cover;">
   </a>
-    <a href="https://galaset.ru/" target="_blank">
-    <img src="./assets/galaset.png" width="200" height="300" style="object-fit: cover;">
-  </a>
-  
+
 <a href="https://www.youtube.com/watch?v=-Wp8ylB9sWY" target="_blank">
   <img src="https://img.youtube.com/vi/-Wp8ylB9sWY/0.jpg" alt="Video Title" width="400" height="300"/>
 </a>
