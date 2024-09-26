@@ -42,6 +42,9 @@ I’d be happy to discuss the terms!
 ## My latest projects
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: start;">
+  <a href="https://github.com/guz86/skilla-task" target="_blank">
+    <img src="./assets/skill.png" width="200" height="300" style="object-fit: cover;">
+  </a>
   <a href="https://github.com/guz86/graphiql-app" target="_blank">
     <img src="./assets/graph.png" width="200" height="300" style="object-fit: cover;">
   </a>
@@ -56,9 +59,6 @@ I’d be happy to discuss the terms!
   </a>
   <a href="https://zhilischnoe-pravo.ru/" target="_blank">
     <img src="./assets/zhilischnoe-pravo.png" width="200" height="300" style="object-fit: cover;">
-  </a>
-  <a href="https://gidpain.ru/" target="_blank">
-    <img src="./assets/gidpain.png" width="200" height="300" style="object-fit: cover;">
   </a>
   <a href="https://rolling-scopes-school.github.io/guz86-JSFE2023Q4/coffee-house/" target="_blank">
     <img src="./assets/coffee.png" width="200" height="300" style="object-fit: cover;">
