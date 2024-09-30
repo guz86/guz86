@@ -14,6 +14,7 @@ I’d be happy to discuss the terms!
    📫 How to reach me: <a href="mailto:guzmo@yandex.ru">guzmo@yandex.ru</a>
 </p>
 
+- 🚀 I’m currently working on Nova Platform
 - 🔭 I’m currently working on a test task on React for one large company.
 
 ## Languages and Tools
