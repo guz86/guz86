@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m looking for a job as a frontend developer, available 40 hours a week. I am a programmer since 2009, participating in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a>, leading the channel on <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development</a>, looking for a company where my skills will be useful.
+Frontend developer with over 5 years of experience in developing various applications, from e-commerce websites to complex information systems. Participating in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a>, leading the channel on <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development</a>, looking for a company where my skills will be useful.
 I’d be happy to discuss the terms!
 
  <p align="center" dir="auto">
