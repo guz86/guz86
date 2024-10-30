@@ -1,7 +1,6 @@
 # Hi there 👋
 
-Frontend developer with over 5 years of experience in developing various applications, from e-commerce websites to complex information systems. Participating in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a>, leading the channel on <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development</a>, looking for a company where my skills will be useful.
-I’d be happy to discuss the terms!
+Frontend developer with over 5 years of experience in developing a wide range of applications, from e-commerce websites to complex information systems. I have participated in <a href='https://gordienkogames.itch.io/' target='_blank'>hackathons</a> and led <a href='https://www.youtube.com/@GordienkoThings' target='_blank'>development channel</a>. I am looking for a company where my skills will be valuable, and I would be happy to discuss potential opportunities!
 
  <p align="center" dir="auto">
    <a href="https://www.linkedin.com/in/pgordienko/" rel="nofollow">
