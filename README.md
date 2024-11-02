@@ -16,13 +16,13 @@ Frontend developer with over 5 years of experience in developing a wide range of
 - 🚀 I’m currently working on Nova Platform
 
 🔭 Completed Test Tasks:
-- <a href="https://github.com/guz86/PokeAPI-task" rel="nofollow">PokeAPI task</a>
+- <a href="https://github.com/guz86/PokeAPI-task" rel="nofollow">pokeAPI task</a>
 - <a href="https://github.com/guz86/mindbox-task" rel="nofollow">mindbox task</a>
 - <a href="https://github.com/guz86/mad-soft-task" rel="nofollow">mad-soft task</a>
 - <a href="https://github.com/guz86/seotlt-task" rel="nofollow">seotlt task</a>
 - <a href="https://github.com/guz86/skilla-task" rel="nofollow">skilla task</a>
 - <a href="https://github.com/guz86/alfa-task" rel="nofollow">alfa task</a>
-...
+
 
 ## Languages and Tools
 
