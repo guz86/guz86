@@ -17,6 +17,7 @@ Frontend developer with over 5 years of experience in developing a wide range of
 
 🔭 Completed Test Tasks:
 - <a href="https://github.com/guz86/PokeAPI-task" rel="nofollow">pokeAPI task</a>
+- <a href="https://github.com/guz86/yukids-task" rel="nofollow">yukids task</a> 
 - <a href="https://github.com/guz86/WEATHER-API" rel="nofollow">weather-API</a>
 - <a href="https://github.com/guz86/mindbox-task" rel="nofollow">mindbox task</a>
 - <a href="https://github.com/guz86/mad-soft-task" rel="nofollow">mad-soft task</a>
