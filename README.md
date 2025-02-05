@@ -16,6 +16,7 @@ Frontend developer with over 5 years of experience in developing a wide range of
 - 🚀 I’m currently working at 5D Hub.
 
 🔭 Completed Test Tasks:
+- <a href="https://github.com/guz86/green-api-task" rel="nofollow">green-api task</a>
 - <a href="https://github.com/guz86/PokeAPI-task" rel="nofollow">pokeAPI task</a>
 - <a href="https://github.com/guz86/yukids-task" rel="nofollow">yukids task</a> 
 - <a href="https://github.com/guz86/WEATHER-API" rel="nofollow">weather-API</a>
